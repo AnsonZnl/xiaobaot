@@ -3,8 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const data = [
     {
       columnid: "shengcaiyoushu",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-11-22/11873/cd3e807a29b791027131bd0ed1783bce.png",
+      image_url: "https://static.xiaobot.net/paper/2022-11-22/11873/cd3e807a29b791027131bd0ed1783bce.png",
       num: { 读者: 27944, 内容: 71 },
       title: "生财有术项目精选",
       owner: "@亦仁",
@@ -14,8 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "mediabuy",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-04-28/115347/6ba0b154f27e595bb25b89d6a101a43e.png",
+      image_url: "https://static.xiaobot.net/paper/2024-04-28/115347/6ba0b154f27e595bb25b89d6a101a43e.png",
       num: { 读者: 12976, 内容: 64 },
       title: "AI海外赚钱",
       owner: "@静水流深（惰惰）",
@@ -25,8 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "ziyouzhiye",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-02-25/16551/a9164530d620ff76b80be5ab871d74cc.png",
+      image_url: "https://static.xiaobot.net/paper/2024-02-25/16551/a9164530d620ff76b80be5ab871d74cc.png",
       num: { 读者: 8352, 内容: 166 },
       title: "自由职业0-100w指南大全",
       owner: "@赵立心",
@@ -36,8 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-10-28/8632/2cc29b335bcde737bfa5271aa9a789a9.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-10-28/8632/2cc29b335bcde737bfa5271aa9a789a9.jpeg",
       num: { 读者: 6927, 内容: 60 },
       title: "纯银的 60 篇产品分析 · 第二季",
       owner: "@纯银",
@@ -47,8 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs3",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-10-28/8632/3dfbb194bfe1571ca2cf2ac41e2940b9.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-10-28/8632/3dfbb194bfe1571ca2cf2ac41e2940b9.jpeg",
       num: { 读者: 6780, 内容: 60 },
       title: "纯银的 60 篇产品分析 · 第三季",
       owner: "@纯银",
@@ -58,8 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmthinking2023",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-12-31/5/82c8c49f1004d4c44fd6e1edc62a707a.png",
+      image_url: "https://static.xiaobot.net/paper/2022-12-31/5/82c8c49f1004d4c44fd6e1edc62a707a.png",
       num: { 读者: 5711, 内容: 50 },
       title: "产品沉思录 | 第七季",
       owner: "@少楠×fonter",
@@ -69,8 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "fly100",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-02/77736/7ca4b1a9173aa4e2dc2c38a1773c2f2f.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-02/77736/7ca4b1a9173aa4e2dc2c38a1773c2f2f.jpeg",
       num: { 读者: 5330, 内容: 31 },
       title: "100种互联网热门赚钱方法",
       owner: "@纯洁的微笑",
@@ -80,8 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs1",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-10-27/8632/f062ec49d788c9429bfd5c76271eebb4.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-10-27/8632/f062ec49d788c9429bfd5c76271eebb4.jpeg",
       num: { 读者: 5322, 内容: 60 },
       title: "纯银的 60 篇产品分析 · 第一季",
       owner: "@纯银",
@@ -91,8 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmthinking2022",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-12-31/5/76e64a7a4daa5b97e5643aef08e7e35f.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-12-31/5/76e64a7a4daa5b97e5643aef08e7e35f.jpeg",
       num: { 读者: 4738, 内容: 52 },
       title: "产品沉思录 | 第六季",
       owner: "@少楠×fonter",
@@ -102,8 +93,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "juexing01",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-10-13/364979/664fcd61fdf26db588de9dc3f3e31969.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-10-13/364979/664fcd61fdf26db588de9dc3f3e31969.jpeg",
       num: { 读者: 4724, 内容: 65 },
       title: "自媒体百万粉丝指南",
       owner: "@阿猫",
@@ -113,8 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "xb499299",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-03-06/119920/b3c64adfceb0443c87af6ded8e6d82ab.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-03-06/119920/b3c64adfceb0443c87af6ded8e6d82ab.jpeg",
       num: { 读者: 4611, 内容: 32 },
       title: "AI代写",
       owner: "@饭饭",
@@ -124,8 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "aiyanjiu",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-02-02/910/22380333939d26c59874ac499b90e119.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-02-02/910/22380333939d26c59874ac499b90e119.jpeg",
       num: { 读者: 4573, 内容: 89 },
       title: "AI项目商业解析",
       owner: "@王凯",
@@ -135,8 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmthinking2020",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-12-31/5/90088875701113485473f525dbe0d1d2.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-12-31/5/90088875701113485473f525dbe0d1d2.jpeg",
       num: { 读者: 4176, 内容: 42 },
       title: "产品沉思录 | 第四季",
       owner: "@少楠×fonter",
@@ -146,8 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "77prompt",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-09-24/273931/726c9f5632bb21bfe48953ef24edfe55.png",
+      image_url: "https://static.xiaobot.net/paper/2023-09-24/273931/726c9f5632bb21bfe48953ef24edfe55.png",
       num: { 读者: 4162, 内容: 41 },
       title: "小七姐的 AI 提示词",
       owner: "@小七姐",
@@ -157,8 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmthinking2021",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-12-31/5/670b34eecd655e441f7e583aede63198.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-12-31/5/670b34eecd655e441f7e583aede63198.jpeg",
       num: { 读者: 4161, 内容: 51 },
       title: "产品沉思录 | 第五季",
       owner: "@少楠×fonter",
@@ -168,8 +153,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs4",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-02-27/8632/2f43fa26ee2a0af0b282761724d58cb7.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-02-27/8632/2f43fa26ee2a0af0b282761724d58cb7.jpeg",
       num: { 读者: 4002, 内容: 60 },
       title: "纯银的 60 篇产品分析 · 第四季",
       owner: "@纯银",
@@ -179,8 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "1234569",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-01-17/284144/1e66a7386ab79e8ae322b38d2ef1c4c4.png",
+      image_url: "https://static.xiaobot.net/paper/2024-01-17/284144/1e66a7386ab79e8ae322b38d2ef1c4c4.png",
       num: { 读者: 3924, 内容: 31 },
       title: "AI数字人从制作到变现",
       owner: "@findyi",
@@ -190,8 +173,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "finfyi321",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-01/284144/b3905d4473492c45f4d2c7ed3849ac72.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-01/284144/b3905d4473492c45f4d2c7ed3849ac72.jpeg",
       num: { 读者: 3913, 内容: 200 },
       title: "编程与 AI 编程",
       owner: "@findyi",
@@ -201,8 +183,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "yang",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-07-11/61324/996487c8eaeebfca71b89d7836e9c5cc.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-07-11/61324/996487c8eaeebfca71b89d7836e9c5cc.jpeg",
       num: { 读者: 3846, 内容: 190 },
       title: "写作与 AI 写作变现",
       owner: "@闫小林",
@@ -212,8 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "yibentong",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-08-31/23049/18e55aabdb07f7d7b4b9bf9960536327.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-08-31/23049/18e55aabdb07f7d7b4b9bf9960536327.jpeg",
       num: { 读者: 3811, 内容: 219 },
       title: "AI 绘画一本通（365个AI绘画案例）",
       owner: "@Sky",
@@ -223,8 +203,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "XF888",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-02-02/119929/06ced6ef2f6b51c20ce9b82d3a196464.png",
+      image_url: "https://static.xiaobot.net/paper/2024-02-02/119929/06ced6ef2f6b51c20ce9b82d3a196464.png",
       num: { 读者: 3811, 内容: 43 },
       title: "水龙手把手带你做自媒体",
       owner: "@水龙",
@@ -234,8 +213,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "xhs",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-06-24/7466/c9e301d3dfd32a076c06f9c517a59e2b.png",
+      image_url: "https://static.xiaobot.net/paper/2022-06-24/7466/c9e301d3dfd32a076c06f9c517a59e2b.png",
       num: { 读者: 3688, 内容: 244 },
       title: "小红书可复制案例库",
       owner: "@IDO老徐",
@@ -245,8 +223,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "xbt",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-06-11/7466/dbfbda247a7ccf7c32f3a6914b6946c4.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-06-11/7466/dbfbda247a7ccf7c32f3a6914b6946c4.jpeg",
       num: { 读者: 3669, 内容: 105 },
       title: "小报童商业化·赚钱案例库",
       owner: "@IDO老徐",
@@ -256,8 +233,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "321456",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-08/284144/cb552823acbd64c1cc5fb6d503ce4ae6.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-08/284144/cb552823acbd64c1cc5fb6d503ce4ae6.jpeg",
       num: { 读者: 3614, 内容: 68 },
       title: "AI赚钱的100种思路（含指令）",
       owner: "@findyi",
@@ -267,8 +243,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "chatai666",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-06-28/271179/d932b3bac5895487347ef7a81afdfc9c.png",
+      image_url: "https://static.xiaobot.net/paper/2023-06-28/271179/d932b3bac5895487347ef7a81afdfc9c.png",
       num: { 读者: 3601, 内容: 35 },
       title: "小白的AI编程提效课",
       owner: "@峰兄",
@@ -278,8 +253,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "chat",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-06-14/7466/ac0b6f30cf9a044f0bc804013ba58fc5.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-06-14/7466/ac0b6f30cf9a044f0bc804013ba58fc5.jpeg",
       num: { 读者: 3537, 内容: 160 },
       title: "AIGC大模型零成本赚钱",
       owner: "@IDO老徐",
@@ -289,8 +263,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs5",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-06-24/8632/e25ffeae0bb4fa81f7679d829088d453.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-06-24/8632/e25ffeae0bb4fa81f7679d829088d453.jpeg",
       num: { 读者: 3364, 内容: 59 },
       title: "纯银的 60 篇产品分析 · 第五季",
       owner: "@纯银",
@@ -300,8 +273,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "paoye365",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-12-25/61382/5199feea075aed7c1a8e00bebe3ee4a5.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-12-25/61382/5199feea075aed7c1a8e00bebe3ee4a5.jpeg",
       num: { 读者: 3318, 内容: 24 },
       title: "百万千万级项目操盘指南",
       owner: "@炮爷&傅超人",
@@ -311,8 +283,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "rpa2024",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-01-15/244788/804b2ef7cdf284bfa88132c281f19df1.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-01-15/244788/804b2ef7cdf284bfa88132c281f19df1.jpeg",
       num: { 读者: 3150, 内容: 38 },
       title: "自媒体自动化提效RPA实战指南",
       owner: "@伟豪",
@@ -322,8 +293,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "juexingguihua",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-02-06/67777/ac9cef6369fbbfb5ba632998943e7f71.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-02-06/67777/ac9cef6369fbbfb5ba632998943e7f71.jpeg",
       num: { 读者: 3090, 内容: 50 },
       title: "100本百万财富书单",
       owner: "@鱼堂主",
@@ -333,8 +303,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "podcast001",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-12-17/30378/1c15182b170783938b3cc1706f6ec135.png",
+      image_url: "https://static.xiaobot.net/paper/2022-12-17/30378/1c15182b170783938b3cc1706f6ec135.png",
       num: { 读者: 3013, 内容: 23 },
       title: "你的第一本播客制作指南",
       owner: "@旺仔珂珂糖",
@@ -344,8 +313,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "ying520323",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-01-01/178383/df51bb7bf159866660a1aa77501eed71.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-01-01/178383/df51bb7bf159866660a1aa77501eed71.jpeg",
       num: { 读者: 2891, 内容: 40 },
       title: "朋友圈与 AI 朋友圈变现",
       owner: "@坏脾气小可爱",
@@ -355,8 +323,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "findyi123",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-03/284144/a5b08da698d6ea05754fbaa6c5ea8024.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-03/284144/a5b08da698d6ea05754fbaa6c5ea8024.jpeg",
       num: { 读者: 2850, 内容: 52 },
       title: "个人IP从入门到变现",
       owner: "@findyi",
@@ -366,8 +333,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "baowen",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-06/225628/68e89d9c0f9604c412515a6ac9982e14.png",
+      image_url: "https://static.xiaobot.net/paper/2023-11-06/225628/68e89d9c0f9604c412515a6ac9982e14.png",
       num: { 读者: 2694, 内容: 38 },
       title: "AI 公众号爆文创作变现(含指令）",
       owner: "@台风-AI魔法师",
@@ -377,8 +343,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "IPcat",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-22/72922/2fc1c3048bfde675388332e1a447ae54.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-22/72922/2fc1c3048bfde675388332e1a447ae54.jpeg",
       num: { 读者: 2542, 内容: 61 },
       title: "阿猫的自媒体底层心法",
       owner: "@阿猫",
@@ -388,8 +353,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "xuyansuitan",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-01-20/125742/a68f2e9c962271066487e1874700cf99.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-01-20/125742/a68f2e9c962271066487e1874700cf99.jpeg",
       num: { 读者: 2415, 内容: 68 },
       title: "玩赚今日头条",
       owner: "@徐言",
@@ -399,8 +363,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "notworking",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-12-31/147626/fe4547f617073a94d60490e5af0dfb0f.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-12-31/147626/fe4547f617073a94d60490e5af0dfb0f.jpeg",
       num: { 读者: 2409, 内容: 74 },
       title: "不是办法",
       owner: "@中二怪",
@@ -410,8 +373,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "laoma",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-14/114300/8bf42e83611a8c2211adf94e68450005.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-14/114300/8bf42e83611a8c2211adf94e68450005.jpeg",
       num: { 读者: 2297, 内容: 27 },
       title: "手把手教你建社群赚钱",
       owner: "@老马",
@@ -421,8 +383,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "qq13401616",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-01-18/8959/094b6d00fb327f24560800b783e3a503.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-01-18/8959/094b6d00fb327f24560800b783e3a503.jpeg",
       num: { 读者: 2264, 内容: 185 },
       title: "100个100万+公众号爆文案例",
       owner: "赵半仙",
@@ -432,8 +393,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "MJ2023",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-01-31/14/79f8b151b903112edee4b4dbb89eda2f.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-01-31/14/79f8b151b903112edee4b4dbb89eda2f.jpeg",
       num: { 读者: 2224, 内容: 51 },
       title: "Midjourney进阶创意库｜2023",
       owner: "@刘飞",
@@ -443,8 +403,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "richcat",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-07-19/72922/6f5b34868b7b5d3c7d6a35d061d6026e.png",
+      image_url: "https://static.xiaobot.net/paper/2023-07-19/72922/6f5b34868b7b5d3c7d6a35d061d6026e.png",
       num: { 读者: 2223, 内容: 89 },
       title: "阿猫的百万财富指南",
       owner: "@阿猫",
@@ -454,8 +413,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "1000009",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-14/284144/215671fc0833061f913d422dc1c10854.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-11-14/284144/215671fc0833061f913d422dc1c10854.jpeg",
       num: { 读者: 2190, 内容: 54 },
       title: "玩赚私域从0到变现",
       owner: "@findyi",
@@ -465,8 +423,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "jghbd",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-06-27/3755/0983fc129b0650bbbf24576077b762bd.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-06-27/3755/0983fc129b0650bbbf24576077b762bd.jpeg",
       num: { 读者: 2185, 内容: 44 },
       title: "如何提升结构化表达能力",
       owner: "@曹将",
@@ -476,8 +433,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "idoxu",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-08-23/7466/80b9e95b20aeb5df9daa5a521b8ff846.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-08-23/7466/80b9e95b20aeb5df9daa5a521b8ff846.jpeg",
       num: { 读者: 2158, 内容: 133 },
       title: "公众号入门·自媒体写作赚钱",
       owner: "@IDO老徐",
@@ -487,8 +443,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "KarlHeinz99",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-10-15/283909/ee934af9c9a99d7ab711be42c5828f2c.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-10-15/283909/ee934af9c9a99d7ab711be42c5828f2c.jpeg",
       num: { 读者: 2156, 内容: 31 },
       title: "AI 小红书爆款变现",
       owner: "@卡尔",
@@ -498,8 +453,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "xiaohongshuku",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-07-23/24925/4deca77d62f3be18a50573c3f6c12453.png",
+      image_url: "https://static.xiaobot.net/paper/2023-07-23/24925/4deca77d62f3be18a50573c3f6c12453.png",
       num: { 读者: 2097, 内容: 31 },
       title: "小红书运营手册｜全本连载中",
       owner: "@后厂女工小王",
@@ -509,8 +463,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs6",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-10-25/8632/4a9180963aae98c6d70c3784f2963a2e.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-10-25/8632/4a9180963aae98c6d70c3784f2963a2e.jpeg",
       num: { 读者: 1833, 内容: 60 },
       title: "纯银的 60 篇产品分析 · 第六季",
       owner: "@纯银",
@@ -520,8 +473,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "zhihuX",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-08-29/17710/abbdd4a2dbe91bc9eb839d1f770653c3.png",
+      image_url: "https://static.xiaobot.net/paper/2022-08-29/17710/abbdd4a2dbe91bc9eb839d1f770653c3.png",
       num: { 读者: 1832, 内容: 113 },
       title: "知乎可复制案例库",
       owner: "@徐宿 · 家蒙",
@@ -531,8 +483,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "course",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-11-23/49017/cf289cf416383fb943f677a277a71f20.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-11-23/49017/cf289cf416383fb943f677a277a71f20.jpeg",
       num: { 读者: 1780, 内容: 47 },
       title: "小红书冷启动SOP",
       owner: "@乌素淖尔",
@@ -542,8 +493,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "wsvictoria",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-12-29/429574/179b3f35bdc5e14da116d0882be4b665.png",
+      image_url: "https://static.xiaobot.net/paper/2023-12-29/429574/179b3f35bdc5e14da116d0882be4b665.png",
       num: { 读者: 1704, 内容: 46 },
       title: "50个零代码AI应用制作案例",
       owner: "@爽姐",
@@ -553,8 +503,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "wenwen",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-07-27/7466/b3480bfacb5fc2f359921f3b1508e6c1.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-07-27/7466/b3480bfacb5fc2f359921f3b1508e6c1.jpeg",
       num: { 读者: 1673, 内容: 104 },
       title: "微信问一问·流量赚钱专栏",
       owner: "@IDO老徐",
@@ -564,8 +513,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "Portrait",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-04-13/97698/26ec4c2fdc132a94b1def0568fbcdc1c.png",
+      image_url: "https://static.xiaobot.net/paper/2024-04-13/97698/26ec4c2fdc132a94b1def0568fbcdc1c.png",
       num: { 读者: 1400, 内容: 33 },
       title: "AI写真变现（爆款案例拆解）",
       owner: "@行者",
@@ -575,8 +523,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "xhsal",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-05-16/17710/d27b0fce1cc6ef65376502dd9f60c2e3.png",
+      image_url: "https://static.xiaobot.net/paper/2023-05-16/17710/d27b0fce1cc6ef65376502dd9f60c2e3.png",
       num: { 读者: 1374, 内容: 202 },
       title: "小红书带货案例库",
       owner: "@徐宿",
@@ -586,8 +533,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "tb108",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-23/98198/93c4026671b82d957899a099789f78a7.png",
+      image_url: "https://static.xiaobot.net/paper/2023-11-23/98198/93c4026671b82d957899a099789f78a7.png",
       num: { 读者: 1165, 内容: 152 },
       title: "淘宝蓝海虚拟产品108式",
       owner: "@阿拉丁@叁心笔记",
@@ -597,8 +543,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "pmdogs7",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-03-07/8632/b766a34bbeb37999ad49e7b2e6d4ce6e.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-03-07/8632/b766a34bbeb37999ad49e7b2e6d4ce6e.jpeg",
       num: { 读者: 899, 内容: 40 },
       title: "纯银的 60 篇产品分析 · 第七季",
       owner: "@纯银",
@@ -608,8 +553,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "Chuangduhui",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-04-17/452095/ed51e2a41ee156e104e48d0a1c965422.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2024-04-17/452095/ed51e2a41ee156e104e48d0a1c965422.jpeg",
       num: { 读者: 616, 内容: 83 },
       title: "李鲆：创业读书（2024）",
       owner: "@李鲆",
@@ -619,8 +563,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "devgrowth",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-05-15/45150/057f26f82da92e1f473bcfbf4a00d0ba.png",
+      image_url: "https://static.xiaobot.net/paper/2024-05-15/45150/057f26f82da92e1f473bcfbf4a00d0ba.png",
       num: { 读者: 527, 内容: 17 },
       title: "独立开发营销获客增长手册",
       owner: "@Yangyi",
@@ -630,8 +573,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "along",
-      image_url:
-        "https://static.xiaobot.net/paper/2022-08-22/66780/d3b073c65dd390b560e08d27324c8ab2.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2022-08-22/66780/d3b073c65dd390b560e08d27324c8ab2.jpeg",
       num: { 读者: 453, 内容: 101 },
       title: "去码头整点恶龙",
       owner: "@提刀少年斩恶龙",
@@ -641,8 +583,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "LoveGuides",
-      image_url:
-        "https://static.xiaobot.net/paper/2024-02-06/15694/a097c9a524a92aa25461d65a0ce1114d.png",
+      image_url: "https://static.xiaobot.net/paper/2024-02-06/15694/a097c9a524a92aa25461d65a0ce1114d.png",
       num: { 读者: 238, 内容: 19 },
       title: "高效脱单经验书",
       owner: "@正记录Beta",
@@ -652,8 +593,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "python_weekly",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-06-06/270980/e877e35dd62c49bfca2c0d7cd7d1067b.jpeg",
+      image_url: "https://static.xiaobot.net/paper/2023-06-06/270980/e877e35dd62c49bfca2c0d7cd7d1067b.jpeg",
       num: { 读者: 171, 内容: 53 },
       title: "Python潮流周刊 | 每周连载中",
       owner: "@豌豆花下猫",
@@ -663,8 +603,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "siyuwiki",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-11-03/22414/908316b2b8e63cfa627e8437a3c09d7d.png",
+      image_url: "https://static.xiaobot.net/paper/2023-11-03/22414/908316b2b8e63cfa627e8437a3c09d7d.png",
       num: { 读者: 67, 内容: 30 },
       title: "私域知识体系白皮书2.0",
       owner: "@张佳的流量常识",
@@ -674,8 +613,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       columnid: "card",
-      image_url:
-        "https://static.xiaobot.net/paper/2023-10-31/5843/a09cc35c4c886f1ee0d9b15ce06c02c2.png",
+      image_url: "https://static.xiaobot.net/paper/2023-10-31/5843/a09cc35c4c886f1ee0d9b15ce06c02c2.png",
       num: { 读者: 0, 内容: 40 },
       title: "笔记的方法（原知识资产 · 已完结）",
       owner: "@flomo Team",
@@ -774,18 +712,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // 过滤数据
     const filteredData = data.filter((item) => {
       // 检查标题、描述和所有者是否包含搜索关键词
-      const matchesSearch =
-        item.title.toLowerCase().includes(query) ||
-        item.description.toLowerCase().includes(query) ||
-        item.owner.toLowerCase().includes(query);
+      const matchesSearch = item.title.toLowerCase().includes(query) || item.description.toLowerCase().includes(query) || item.owner.toLowerCase().includes(query);
 
       // 检查是否与选定的标签匹配
-      const matchesTag = selectedTag
-        ? item.type
-            .toLowerCase()
-            .includes(selectedTag.dataset.type.toLowerCase()) ||
-          selectedTag.dataset.type === "全部"
-        : true;
+      const matchesTag = selectedTag ? item.type.toLowerCase().includes(selectedTag.dataset.type.toLowerCase()) || selectedTag.dataset.type === "全部" : true;
 
       return matchesSearch && matchesTag; // 返回是否匹配搜索和标签条件
     });
@@ -805,5 +735,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  renderCards(data); // 初始化页面内容
+  // renderCards(data); // 初始化页面内容
 });
