@@ -201,6 +201,7 @@ span.word {
   background-color: #f1f1f1; /* 背景颜色 */
   padding: 20px; /* 内边距 */
   text-align: center; /* 文本居中对齐 */
+  width: 100vw;
 }
 
 /* 设置友情链接样式 */
@@ -225,6 +226,7 @@ span.word {
 .friend-links a {
   text-decoration: none; /* 移除下划线 */
   color: #000; /* 字体颜色 */
+  color:#f1f1f1;
 }
 
 .friend-links a:hover {
